@@ -72,3 +72,17 @@ nav li{
     display: inline-block;
 }
 
+.page-footer{
+    padding: 40px 0px;
+    background-color: teal;
+    color: #bbb;
+}
+
+.card{
+    width: 35%;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #B0C4DE;
+    background: white;
+    border-radius: 0px 0px 10px 10px;
+}
